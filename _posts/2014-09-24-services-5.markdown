@@ -1,8 +1,0 @@
----
-layout: default
-img: water-resistant.png
-category: Services
-title: Water and Sweat Resistant
-description: |
----
-Not many earbuds can handle water and sweat. SXUND Z1™ were designed to handle the toughest workouts, without getting damaged or even falling out. 
