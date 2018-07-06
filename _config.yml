@@ -19,8 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   SXUND Z1 Earbuds are the future. The most advanced earbuds that can still handle your workout.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  
+credits: 'Design: <a href="http://startbootstrap.com/">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown
