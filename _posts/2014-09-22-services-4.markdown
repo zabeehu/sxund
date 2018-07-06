@@ -1,0 +1,11 @@
+---
+layout: default
+img: replacement.png
+category: Services
+title: Replacement Program
+description: |
+---
+  Afraid of losing one of the earbuds? Don't worry, if somehow you do, we offer a replacement program. Get up to 1 free replacement with proof of a lost earbud.
+  <br>
+  <br>
+<a href="https://sxund.com/pages/replacement-program" target="_blank">Learn more</a>

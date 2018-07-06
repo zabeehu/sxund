@@ -1,0 +1,8 @@
+---
+layout: default
+img: truly-wireless.png
+category: Services
+title: Truly Wireless Design
+description: |
+---
+  Tangled headphones and annoying wires get in the way, especially when training. Stop getting distracted and make the switch.

@@ -1,0 +1,8 @@
+---
+layout: default
+img: charging-case.png
+category: Services
+title: QuickCharge+ Case
+description: |
+---
+  Always keep a full charge with the included SXUND QuickCharge+ case. When you aren't using your earbuds, leave them in the case to protect and charge them without thinking about it. Up to 4 full charges.

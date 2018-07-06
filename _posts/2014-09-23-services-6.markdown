@@ -1,0 +1,8 @@
+---
+layout: default
+img: price.png
+category: Services
+title: The Right Price
+description: |
+---
+SXUND Z1™ starts at just $99. Most of the competition is just overpriced. We are offering the future of wireless earbuds at a price that makes sense. Don't overpay.

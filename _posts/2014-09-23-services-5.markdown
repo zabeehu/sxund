@@ -1,0 +1,8 @@
+---
+layout: default
+img: lightweight.png
+category: Services
+title: Ultra Lightweight Design
+description: |
+---
+Out ultra lightweight design allows you to comfortably wear the earbuds without them slowing you down. Pop them in, and it will feel like the sound is floating next to your ears.
