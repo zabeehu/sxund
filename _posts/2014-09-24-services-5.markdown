@@ -1,0 +1,13 @@
+---
+layout: default
+img: review.png
+category: Services
+title: Customer Reviews
+description: |
+---
+
+*"The best earbuds I've owned, by far. Really light and comfortable. I leave the case in my car and the headphones charge when I'm not using them, so when I get to the gym, they are ready to go. I also had an issue and the support was super fast. Smaller startup, but thats actually a bonus!"*
+ <br>
+<p style="text-align:right;">-Sophie</p>
+<br><br>
+See more reviews <a href="https://www.sxund.com/products/z1-earbuds#shopify-product-reviews" target="_blank">here</a>
